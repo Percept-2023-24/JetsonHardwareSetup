@@ -13,7 +13,7 @@
 
 <img src="https://user-images.githubusercontent.com/12723018/233515674-bec797f6-04a0-4a79-96eb-b0869d814f4b.png" width="400" height="400">
 
-
+P.S: Orin nano is based on ARMV8.
 
 
 
